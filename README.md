@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Justine 👋
 
-<!--
-**blankblank-2A/blankblank-2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developing **Balkava OS**, a Termux-based operating system (coded and tested inside Termux) that integrates concepts from both Android and Linux.  
+My focus is on building realistic system components, experimenting with bootloader simulations, and designing tools that replicate the behavior of modern embedded platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- **Balkava OS** – Core system design and simulation  
+- **bapt** – A package manager for Balkava applications  
+
+---
+
+## 🎲 Fun Fact
+The name **Balkava** comes from a misspelling of *baklava* — I accidentally misread it, and it stuck.  
+
+---
+
+## 🛠 Technical Skills
+- **Languages:** C, C++, Go, Shell  
+- **Tools & Environments:** Termux, Git, Linux (various distributions)  
+- **Domains of Interest:** Operating systems, compilers, system recovery, embedded platforms  
+
+---
+
+## 🎯 Goals
+- Extend Balkava OS into a feature-complete environment with realistic simulations  
+- Explore cross-language development of system software  
+- Continue deepening expertise in low-level systems programming and OS design  
+
+---
+
+*"Building Balkava OS to understand systems from the ground up."*
