@@ -18,7 +18,7 @@ The name **Balkava** comes from a misspelling of *baklava* — I accidentally mi
 
 ## 🛠 Technical Skills
 - **Languages:** C, C++, Go, Shell  
-- **Tools & Environments:** Termux, Git, Linux (various distributions)  
+- **Tools & Environments:** Termux(at my redmi 12c), Git, Linux (various distributions inside of Termux proot-distro)  
 - **Domains of Interest:** Operating systems, compilers, system recovery, embedded platforms  
 
 ---
