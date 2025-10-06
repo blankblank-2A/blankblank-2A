@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Creator of <i>Balkava OS</i></b><br>
-  <i>A Termux-based operating system blending Android and Linux like concepts</i>
+  <i>A Termux-based(cli) operating system blending Android and Linux like concepts</i>
 </p>
 
 ---
