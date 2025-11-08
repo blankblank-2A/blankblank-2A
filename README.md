@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Justine</h1>
-<p align="center">13yo Developer | OS Developer | Philippines</p>
+<p align="center">13yo Teen Developer | OS Developer | Philippines</p>
 
 ---
 
