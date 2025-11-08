@@ -15,9 +15,9 @@
 </p>
 
 
-### current projects🎯
+### Current Projects🎯
 
-**Baklava os - OS stimulation written in c++,c,assembly arm64**
+**Baklava OS - OS stimulation written in c++,c and assembly arm64**
 
 ---
 
