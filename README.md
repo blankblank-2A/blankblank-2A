@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Justine 👋</h1>
+<h1 align="center">Hi, I'm Justine</h1>
+<p align="center">13yo Developer | OS Developer | Philippines</p>
 
 ---
 
-### 🧠 About Me  
-13yo developer👨🏻‍💻 and Techtoker from 🇵🇭
+### 🧰 About Me
+- Building **Balkava OS**, a full OS simulator using **C++, C, ARM64 Assembly**, and more  
+- Passionate about **bootloaders, ethical hacking, and low-level systems**  
+- Dev environment: **Termux on Redmi 12C** (no laptop? no problem 😎)
+
 ---
 
-### ⚙️ GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api?username=blankblank-2A&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
@@ -14,13 +18,14 @@
   />
 </p>
 
+---
 
-### Current Projects🎯
-
-**Baklava OS - OS stimulation written in c++,c and assembly arm64**
+### 🛠 Skills
+- **Languages:** C, ARM64 Assembly, Shell Script (POSIX)  
+- **Tools:** Termux, Git  
+- **Specialties:** OS development, bootloader simulation, system-level programming  
 
 ---
 
-### 🛠 Technical Skills  
-- **Languages:** C, assembly (arm64),shell script(POSIX)
-- **Tools & Environments:** Termux (on my Redmi 12C because I don't have a laptop), Git
+### 💡 Current Projects
+- **Baklava OS** – OS simulator written in **C++, C, ARM64 Assembly, and 3 other programming languages**, running entirely on Termux(qemu)
