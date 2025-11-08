@@ -4,9 +4,9 @@
 ---
 
 ### 🧰 About Me
-- Building **Baklava OS**, a OS simulator using **C++, C, ARM64 Assembly**, plus several other languages  
+- Building **Baklava OS**, an OS simulator using **C++, C, ARM64 Assembly**, and more  
 - Passionate about **bootloaders, ethical hacking, and low-level systems**  
-- Dev environment: **Termux on Redmi 12C** (no laptop? no problem 😎)
+- Coding environment: **Termux on Redmi 12C** (no laptop? no problem 😎)
 
 ---
 
@@ -28,4 +28,4 @@
 ---
 
 ### 💡 Current Projects
-- **Baklava OS** – OS simulator written in **C++, C, ARM64 Assembly**, plus several other languages, running entirely on **Termux (QEMU)**
+- **Baklava OS** – OS simulator written in **C++, C, ARM64 Assembly**, and more, running entirely on **Termux (QEMU)**
