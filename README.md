@@ -1,16 +1,9 @@
 <h1 align="center">Hi, I'm Justine 👋</h1>
 
-<p align="center">
-  <b>Creator of <i>Balkava OS</i></b><br>
-  <i>A Termux-based(cli) operating system blending Android and Linux like concepts</i>
-</p>
-
 ---
 
 ### 🧠 About Me  
-I’m developing **Balkava OS**, a Termux-based operating system coded and tested entirely inside Termux.  
-My focus is on **realistic system components**, **bootloader simulations**, and building tools that mimic the behavior of **modern embedded platforms**.  
-
+13yo developer👨🏻‍💻 and Techtoker from 🇵🇭
 ---
 
 ### ⚙️ GitHub Stats  
@@ -21,31 +14,13 @@ My focus is on **realistic system components**, **bootloader simulations**, and 
   />
 </p>
 
----
 
-### 🔭 Current Projects  
-- **Balkava OS**: Core system design and simulation *(currently under heavy development)*  
-- **bapt**: Package manager for Balkava applications  
+### current projects🎯
 
----
-
-### 🎲 Fun Fact  
-The name **Balkava** came from a misspelling of *baklava*, I misread it once and it became the project’s name forever.  
+Baklava os - OS stimulation written in c++,c,assembly arm64
 
 ---
 
 ### 🛠 Technical Skills  
-- **Languages:** C, C++, Go, Shell  
-- **Tools & Environments:** Termux (on my Redmi 12C), Git, Linux (various distros via `Termux proot-distro`)  
-- **Domains of Interest:** Operating systems, compilers, system recovery, embedded platforms  
-
----
-
-### 🎯 Goals  
-- Expand **Balkava OS** into a feature-complete simulated environment  
-- Explore **cross-language development** for system-level tools  
-- Continue diving deeper into **low-level systems programming** and OS design  
-
----
-
-<p align="center"><i>"Building Balkava OS to understand systems from the ground up."</i></p>
+- **Languages:** C, assembly (arm64),shell script(POSIX)
+- **Tools & Environments:** Termux (on my Redmi 12C because I don't have a laptop), Git
