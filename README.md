@@ -10,16 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=blankblank-2A&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-    alt="blankblank-2A's GitHub Stats"
-  />
-</p>
-
----
-
 ### 🛠 Skills
 - **Languages:** C, ARM64 Assembly, Shell Script (POSIX)  
 - **Tools:** Termux, Git  
