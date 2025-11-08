@@ -4,7 +4,7 @@
 ---
 
 ### 🧰 About Me
-- Building **Balkava OS**, a full OS simulator using **C++, C, ARM64 Assembly**, and more  
+- Building **Baklava OS**, a OS simulator using **C++, C, ARM64 Assembly**, plus several other languages  
 - Passionate about **bootloaders, ethical hacking, and low-level systems**  
 - Dev environment: **Termux on Redmi 12C** (no laptop? no problem 😎)
 
@@ -23,9 +23,9 @@
 ### 🛠 Skills
 - **Languages:** C, ARM64 Assembly, Shell Script (POSIX)  
 - **Tools:** Termux, Git  
-- **Specialties:** OS development, bootloader simulation, system-level programming  
+- **Specialties:** OS development, system-level and low-level programming  
 
 ---
 
 ### 💡 Current Projects
-- **Baklava OS** – OS simulator written in **C++, C, ARM64 Assembly, and 3 other programming languages**, running entirely on Termux(qemu)
+- **Baklava OS** – OS simulator written in **C++, C, ARM64 Assembly**, plus several other languages, running entirely on **Termux (QEMU)**
